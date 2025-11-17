@@ -1,18 +1,9 @@
-# Insurance Insights Dashboard (Streamlit Cloud)
+# ReFillHub Streamlit Dashboard
 
-### 🚀 Overview
-A fully functional Streamlit dashboard for insurance analytics and Policy_Status prediction with dynamic filtering.
+Upload this project to GitHub and deploy on Streamlit Cloud.
 
-### 🧩 Features
-- 5 charts with actionable insurance insights
-- Automatic handling of categorical/numeric columns
-- Interactive filters (roles, satisfaction)
-- Machine learning (Decision Tree, Random Forest, Gradient Boosting)
-- Upload new data & predict Policy_Status
-
-### ⚙️ Run Locally
-pip install -r requirements.txt
-streamlit run app.py
-
-### ☁️ Streamlit Cloud
-Upload all files to GitHub → deploy via https://share.streamlit.io
+Features:
+- Marketing insights
+- DT, RF, GBRT model comparison
+- Predictions
+- Download updated dataset
